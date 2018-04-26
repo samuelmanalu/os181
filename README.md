@@ -7,3 +7,4 @@ ZCZC W04 Telah membaca materi dan demo
 ZCZC W05 Telah membaca materi
 ZCZC W06 Telah membaca materi
 ZCZC W07 Telah membaca materi dan demo
+ZCZC W08 Telah membaca dan demo
